@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://times2.org/sitemap.xml

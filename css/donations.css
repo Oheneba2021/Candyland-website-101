@@ -1,0 +1,39 @@
+/* Donations */
+
+
+
+
+
+/* Donation Form One */
+
+/* Donation Form Two */
+.donateWrap.two .donateTabTwo input, .donateWrap.two .donateTabTwo select {width: 100%;padding: 0 1%;}
+.donateWrap.two .donateTabTwo p { margin: 8px 0 0; }
+.donateWrap.two .donateTabThree input, .donateWrap.two .donateTabThree select { width: 100%; padding: 0 1%;}
+.donateWrap.two .donateTabThree p { margin: 8px 0 0; }
+.donateWrap.two .btnWrap input { border: none; font-size: 10pt; margin: 5px 0 0; color: #ffffff; font-weight: 600; background: #414b4b; padding: 10px 28px; text-decoration: none; -webkit-transition: .5s; -moz-transition: .5s; transition: .5s; cursor: pointer; cursor: hand; width: auto; text-transform: uppercase; }
+.donateWrap.two .btnWrap input:hover { border: none; background: #242727; color: #ffffff; -webkit-transition: .5s; -moz-transition: .5s; transition: .5s; }
+.donateWrap.two .donateWrap h5, .donateWrap p { }
+
+/* Donation Form Three */
+.donateWrap.three .donateTabTwo input, .donateWrap.three .donateTabTwo select {width: 100%;padding: 0 1%;}
+.donateWrap.three .donateTabTwo p { margin: 8px 0 0; }
+.donateWrap.three .donateTabThree input, .donateWrap.three .donateTabThree select { width: 100%; padding: 0 1%; }
+.donateWrap.three .donateTabThree p { margin: 8px 0 0; }
+.donateWrap.three .btnWrap input { border: none; font-size: 10pt; margin: 5px 0 0; color: #ffffff; font-weight: 600; background: #414b4b;padding: 15px 20px; text-decoration: none; -webkit-transition: .5s; -moz-transition: .5s; transition: .5s; cursor: pointer; cursor: hand; width: auto; text-transform: uppercase;}
+.donateWrap.three .btnWrap input:hover { border: none; background: #242727; color: #ffffff; -webkit-transition: .5s; -moz-transition: .5s; transition: .5s; }
+.donateWrap.three .donateWrap h5, .donateWrap.three .donateWrap p { }
+
+/* Donation Form Four */
+
+
+.donateWrap.four .donateTabTwo input, .donateWrap.four .donateTabTwo select {width: 100%; padding: 0 1%;}
+.donateWrap.four .donateTabTwo p { margin: 8px 0 0; }
+.donateWrap.four .donateTabThree input, .donateWrap.four .donateTabThree select { width: 100%; padding: 0 1%;}
+.donateWrap.four .donateTabThree p { margin: 8px 0 0; }
+.donateWrap.four .btnWrap input { border: none; font-size: 10pt; margin: 5px 0 0; color: #ffffff; font-weight: 600; background: #414b4b;padding: 12px 20px; text-decoration: none; -webkit-transition: .5s; -moz-transition: .5s; transition: .5s; cursor: pointer; cursor: hand; width: auto; text-transform: uppercase;}
+.donateWrap.four .btnWrap input:hover { border: none; background: #242727; color: #ffffff; -webkit-transition: .5s; -moz-transition: .5s; transition: .5s; }
+.donateWrap.four .donateWrap.four h5, .donateWrap.four .donateWrap.four p { text-align: center; }
+.donateWrap.four .nextA, .donateWrap.four .nextB, .donateWrap.four .nextC { cursor: pointer; cursor: hand; }
+
+
